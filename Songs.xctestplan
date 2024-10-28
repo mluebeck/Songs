@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "5577113E-B4A0-483A-B559-792E27F6746A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Songs.xcodeproj",
+      "identifier" : "A675AAD12CBD061C0027FEAC",
+      "name" : "Songs"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Songs.xcodeproj",
+        "identifier" : "A675AAE22CBD061E0027FEAC",
+        "name" : "SongsTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Songs.xcodeproj",
+        "identifier" : "A675AAEC2CBD061E0027FEAC",
+        "name" : "SongsUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
