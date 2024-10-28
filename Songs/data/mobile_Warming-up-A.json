@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "album": "Highway 61",
+      "year": 1965
+    },
+    {
+      "id": 2,
+      "name": "Ballad of a Thin Man",
+      "artist": "Bob Dylan",
+      "album": "Highway 61",
+      "year": 1965
+    },
+    {
+      "id": 3,
+      "name": "Highway 61 Revisited",
+      "artist": "Bob Dylan",
+      "album": "Highway 61",
+      "year": 1965
+    },
+    {
+      "id": 4,
+      "name": "Respect",
+      "artist": "Aretha Franklin",
+      "album": "Miscellaneous",
+      "year": null
+    },
+    {
+      "id": 5,
+      "name": "Border Song",
+      "artist": "Aretha Franklin",
+      "album": "Miscellaneous",
+      "year": null
+    },
+    {
+      "id": 6,
+      "name": "Baby I Love You",
+      "artist": "Aretha Franklin",
+      "album": "Miscellaneous",
+      "year": null
+    },
+    {
+      "id": 7,
+      "name": "Chain of Fools",
+      "artist": "Aretha Franklin",
+      "album": "Miscellaneous",
+      "year": null
+    },
+    {
+      "id": 8,
+      "name": "They Are All In Love",
+      "artist": "The Who",
+      "album": "Quadrophenia",
+      "year": null
+    },
+    {
+      "id": 9,
+      "name": "See Me, Feel Me",
+      "artist": "The Who",
+      "album": "Quadrophenia",
+      "year": null
+    },
+    {
+      "id": 10,
+      "name": "Heat Wave",
+      "artist": "The Who",
+      "album": "Quadrophenia",
+      "year": null
+    },
+    {
+      "id": 11,
+      "name": "Tea & Theatre",
+      "artist": "The Who",
+      "album": "Quadrophenia",
+      "year": null
+    },
+    {
+      "id": 12,
+      "name": "Lounge Act",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991
+    },
+    {
+      "id": 13,
+      "name": "Negative Creep",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991
+    },
+    {
+      "id": 14,
+      "name": "Polly",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991
+    },
+    {
+      "id": 15,
+      "name": "About A Girl",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991
+    },
+    {
+      "id": 16,
+      "name": "Around And Around",
+      "artist": "The Rolling Stones",
+      "album": "Stone Age",
+      "year": 1971
+    },
+    {
+      "id": 17,
+      "name": "Blue Turns To Grey",
+      "artist": "The Rolling Stones",
+      "album": "Stone Age",
+      "year": 1971
+    },
+    {
+      "id": 18,
+      "name": "The Last Time",
+      "artist": "The Rolling Stones",
+      "album": "Stone Age",
+      "year": 1971
+    },
+    {
+      "id": 19,
+      "name": "If You Need Me",
+      "artist": "The Rolling Stones",
+      "album": "Stone Age",
+      "year": 1971
+    },
+    {
+      "id": 20,
+      "name": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "album": "Stone Age",
+      "year": 1971
+    }
+  ]
